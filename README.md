@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web and ml developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parker-x&label=Profile%20views&color=0e75b6&style=flat" alt="parker-x" /> </p>
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/tony-stark-coding-tony-stark-coding-developer-iron-man-gif-17397669" >
+<img align="right" alt="Coding" width="400" src= "https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" >
 
 
 <h3 align="left">Connect with me:</h3>
