@@ -10,7 +10,6 @@
   
 <a href="https://www.linkedin.com/in/harsh-9607a41ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-9607a41ba/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/lucifierx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lucifierx" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshrawat096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/harshrawat096" height="30" width="40" /></a>
 <a href="https://leetcode.com/IronmanX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="https://leetcode.com/IronmanX/" height="30" width="40" /></a>
   
 
