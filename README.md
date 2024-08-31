@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A Learner</h3>
+<h3 align="center">I am learning new things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parker-x&label=Profile%20views&color=0e75b6&style=flat" alt="parker-x" /> </p>
 <img align="right" alt="Coding" width="400" src= "https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" >
